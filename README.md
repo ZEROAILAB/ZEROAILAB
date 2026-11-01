@@ -1,3 +1,4 @@
+<img width="1000" height="460" alt="zero-ai-lab" src="https://github.com/user-attachments/assets/86bd2dbc-ac6c-4ef7-9fa5-ca7b819af1fc" />
 <div align="center">
 
 <img src="assets/zero-ai-lab.svg" alt="ZERO AI LAB dot-matrix logo" width="720" />
