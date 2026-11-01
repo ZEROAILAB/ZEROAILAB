@@ -1,8 +1,6 @@
-<img width="1000" height="460" alt="zero-ai-lab" src="https://github.com/user-attachments/assets/86bd2dbc-ac6c-4ef7-9fa5-ca7b819af1fc" />
 <div align="center">
-
-<img src="assets/zero-ai-lab.svg" alt="ZERO AI LAB dot-matrix logo" width="720" />
-
+  <img src="zero-ai-lab.svg" alt="ZERO AI LAB dot-matrix logo" width="720" />
+</div>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=800&lines=BUILDING+INTELLIGENCE+FROM+ZERO.;NEPALI-FIRST+AI+%7C+RESEARCH+%7C+OPEN+SOURCE" alt="Typing introduction" />
 
 <img src="https://img.shields.io/badge/FOCUS-AI%20RESEARCH-111827?style=for-the-badge&labelColor=6D28D9" />
