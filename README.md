@@ -1,67 +1,91 @@
+
 <div align="center">
-  <img src="zero-ai-lab.svg" alt="ZERO AI LAB dot-matrix logo" width="720" />
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=800&lines=BUILDING+INTELLIGENCE+FROM+ZERO.;NEPALI-FIRST+AI+%7C+RESEARCH+%7C+OPEN+SOURCE" alt="Typing introduction" />
 
-<img src="https://img.shields.io/badge/FOCUS-AI%20RESEARCH-111827?style=for-the-badge&labelColor=6D28D9" />
-<img src="https://img.shields.io/badge/BUILDING-ZERO%20AI-111827?style=for-the-badge&labelColor=0891B2" />
-<img src="https://img.shields.io/badge/BASED_IN-KATHMANDU%2C%20NEPAL-111827?style=for-the-badge&labelColor=334155" />
+  <img src="zero-ai-lab.svg" alt="ZERO AI Lab" width="540" />
 
-### BUILD. LEARN. REPEAT.
+  <h1>ZERO AI LAB</h1>
 
-**ZEROAILAB** · AI Research · Builder
+  <p><strong>INDEPENDENT AI RESEARCH & ENGINEERING</strong></p>
 
-Exploring machine learning, language technology, neural networks, and practical AI systems.
+  <p>
+    Building language technologies for underrepresented languages,<br>
+    starting with Nepali.
+  </p>
 
-**Current mission:** Building ZERO AI, a Nepali-first AI initiative.
+  <img src="https://img.shields.io/badge/RESEARCH-LANGUAGE%20AI-0E7490?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FOCUS-NEURAL%20SYSTEMS-334155?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LOCATION-NEPAL-155E75?style=for-the-badge" />
 
 </div>
 
 ---
 
-## ⚡ Current research
+## 01 / Research Mission
 
-| Project | Focus |
+ZERO AI LAB is an independent AI research and engineering initiative exploring the foundations of intelligent language systems.
+
+Our mission is to develop practical AI technologies that make advanced language intelligence more accessible to underrepresented languages and communities.
+
+We begin with Nepali and aim to expand toward multilingual and multimodal intelligence.
+
+## 02 / Research Directions
+
+| Research Program | Focus |
 |---|---|
-| [ZERO AI](https://github.com/ZEROAILAB/ZERO) | Nepali-first AI initiative and language-model research |
-| [ZERO Tokenizer](https://github.com/ZEROAILAB/zero-tokenizer) | Tokenization and language-processing foundations |
-| [ZERO Lab](https://github.com/ZEROAILAB/z-e-r-o-lab) | Research and experiments for the Nepali AI platform |
-| [ETHOS renderer](https://github.com/ZEROAILAB/ethos-rander.yaml) | Creative and product experiments |
+| Language Technology | Nepali NLP, tokenization and linguistic datasets |
+| Language Models | Transformer architectures, pretraining and inference |
+| Speech Intelligence | Speech recognition and voice generation |
+| Data Engineering | Dataset preparation, normalization and quality |
+| AI Evaluation | Benchmarking, reproducibility and model reliability |
 
-## 🛠️ Technology playground
+## 03 / Active Research
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,git,github,vscode,linux&theme=dark" alt="Python, PyTorch, Git, GitHub, VS Code and Linux" />
-</p>
+### ZERO — Nepali-first AI
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Research-6D28D9?style=flat-square" />
-  <img src="https://img.shields.io/badge/NLP-Language%20Technology-0891B2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20Source-Build%20in%20Public-15803D?style=flat-square" />
-</p>
+Our central research initiative explores the development of language technology for Nepali and other underrepresented languages.
 
-## 📈 GitHub activity
+**Selected open-source work**
 
-I build in public and use this profile to document experiments, tools, and progress. GitHub's native contribution graph below the profile is the source of truth for activity.
+[ZERO Nepali Tokenizer](https://github.com/ZEROAILAB/zero-nepali-tokenizer)
 
-## 🐍 Contribution snake
+- v0.1: Experimental Nepali-first BPE tokenizer trained on processed Nepali Wikipedia.
+- v0.2: Experimental ByteLevel BPE tokenizer trained on English TinyStories data.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ZEROAILAB/ZEROAILAB/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution graph snake" width="95%" />
-</p>
+The two versions are separate experiments. v0.2 is not a Nepali-trained tokenizer.
 
-## 📡 Connect
+## 04 / Research Methodology
 
-<p align="center">
-  <a href="https://github.com/ZEROAILAB">
-    <img src="https://img.shields.io/badge/GitHub-ZEROAILAB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub ZEROAILAB" />
-  </a>
-</p>
+We emphasize:
+
+1. Clearly defined research questions.
+2. Transparent dataset provenance.
+3. Reproducible experiments.
+4. Quantitative evaluation.
+5. Honest reporting of limitations.
+6. Open-source implementation where practical.
+
+Our work distinguishes experimental prototypes from validated systems.
+
+## 05 / Technology
+
+Python · PyTorch · Hugging Face · Transformers · Tokenizers · Git
+
+## 06 / Collaboration
+
+We welcome researchers, engineers, linguists and language contributors interested in low-resource AI, language technology and open research.
+
+Explore our repositories, follow experiments and contribute through GitHub.
+
+---
 
 <div align="center">
 
 **INTELLIGENCE AT ZERO**
 
-Made with curiosity in Kathmandu, Nepal 🇳🇵
+Independent AI Research & Engineering
+
+Kathmandu, Nepal 🇳🇵
+
+[ZEROAILAB on GitHub](https://github.com/ZEROAILAB)
 
 </div>
